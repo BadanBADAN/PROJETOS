@@ -1,25 +1,40 @@
-# INFORMÁTICA
+# 📚 Cronograma das Aulas de Informática Aplicada à Logística
 
-# Cronograma das aulas de Informática
+Bem-vindo(a) ao repositório de **Informática Aplicada à Logística**! Aqui você encontrará todas as atividades e trabalhos desenvolvidos ao longo da disciplina, com links para materiais e projetos realizados.
 
-Nesse repositorio ira ficar todas as atividades e trabalhos feitos na matéria de informatica aplicada a logistica.
+## 📋 Índice
 
-# Índice
+- [Apresentação Pessoal em Grupo](#apresentação-pessoal-em-grupo)
+- [Criando Perfil no GitHub](#criando-perfil-no-github)
+- [Usando Fórmulas no Excel](#usando-fórmulas-no-excel)
+- [Atividade de Filtragem de Dados](#atividade-de-filtragem-de-dados)
+- [Análise de Dados (19/09)](#entrega-do-trabalho-de-análise-de-dados-1909)
+- [Anexar Dados Filtrados ao Power BI (11/10)](#anexar-dados-filtrados-ao-powerbi-dados-livres-1110)
 
-* [AULA 1](#apresentação-pessoal-em-grupo)
-* [AULA 2](#criando-perfil-no-github)
-* [AULA 3](#usando-formulas-no-excel)
-* [AULA 4](#atividade-de-filtragem-de-dados)
+---
 
-  
-## > APRESENTAÇÃO EM GRUPO: Informações pessoais
-Em duas aulas, disponibilizadas pela professora Adriana, realizamos a produção da presentação em slides interativos de perguntas e respostas sobre os integrantes do grupo.
-Integrantes do grupo: Evellyn Badan, Lígia de Sá, Leonardo Rocha e Julio Braga.
-https://www.canva.com/design/DAGNZwywy3o/msgGjdCYuYnAUImQooENDg/edit?utm_content=DAGNZwywy3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-![image](https://github.com/user-attachments/assets/0fb3d947-68c7-41f6-8fa8-556aad67e90f)
+## 🔍 **Apresentação Pessoal em Grupo:**
+- Evellyn Badan
+- Lígia de Sá
+- Leonardo Rocha
+- Julio Braga
 
-## > ENTREGA DO TRABALHO DE ANÁLISE DE DADOS 19/09
-[atividade](https://github.com/BadanBADAN/INFORMATICA/blob/main/an%C3%A1lise%20de%20dados%20sjc.xlsx)
+**Link da apresentação no Canva**: [Clique aqui](https://www.canva.com/design/DAGNZwywy3o/msgGjdCYuYnAUImQooENDg/edit?utm_content=DAGNZwywy3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## > ANEXAR DADOS FILTRADOS AO POWERBI: dados livres 11/10
-[atividade](https://fatecspgov-my.sharepoint.com/:u:/g/personal/evellyn_silva3_fatec_sp_gov_br/EdDYwQ6MzZtIh-NAOiO7VVgBcG80ZK1UZgEGSaA_qcoGCA?e=eoofRf)
+![Apresentação](https://github.com/user-attachments/assets/0fb3d947-68c7-41f6-8fa8-556aad67e90f)
+
+---
+
+## 📊 **Entrega do Trabalho de Análise de Dados (19/09)**
+
+Nesta atividade, fizemos uma análise de dados utilizando planilhas. O arquivo abaixo contém os resultados da análise.
+
+**Arquivo da atividade**: [Análise de Dados SJC](https://github.com/BadanBADAN/INFORMATICA/blob/main/an%C3%A1lise%20de%20dados%20sjc.xlsx)
+
+---
+
+## 📈 **Anexar Dados Filtrados ao Power BI (11/10)**
+
+Trabalhamos com dados livres e visualizações no Power BI. Acesse o material através do link abaixo:
+
+**Link da atividade no OneDrive**: [Clique aqui para acessar](https://fatecspgov-my.sharepoint.com/:u:/g/personal/evellyn_silva3_fatec_sp_gov_br/EdDYwQ6MzZtIh-NAOiO7VVgBcG80ZK1UZgEGSaA_qcoGCA?e=eoofRf)
