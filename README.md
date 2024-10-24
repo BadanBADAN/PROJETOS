@@ -21,8 +21,6 @@ Bem-vindo(a) ao repositório de **Informática Aplicada à Logística**! Aqui vo
 
 **Link da apresentação no Canva**: [Clique aqui](https://www.canva.com/design/DAGNZwywy3o/msgGjdCYuYnAUImQooENDg/edit?utm_content=DAGNZwywy3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![Apresentação](https://github.com/user-attachments/assets/0fb3d947-68c7-41f6-8fa8-556aad67e90f)
-
 ---
 
 ## 📊 **Entrega do Trabalho de Análise de Dados (19/09)**
