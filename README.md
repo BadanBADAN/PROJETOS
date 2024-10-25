@@ -44,4 +44,6 @@ Trabalhamos com dados livres e visualizações no Power BI. Acesse o material at
 ## **Tarefa 1 - PowerBI (12/10)** 
 ![Captura de tela 2024-10-24 215836](https://github.com/user-attachments/assets/8f633e77-9ed0-4d0d-a67a-ff646641df2f)
 
+**Link da atividade no OneDrive**: 
+
 
