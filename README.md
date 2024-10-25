@@ -40,3 +40,8 @@ Nesta atividade, fizemos uma análise de dados utilizando planilhas. O arquivo a
 Trabalhamos com dados livres e visualizações no Power BI. Acesse o material através do link abaixo:
 
 **Link da atividade no OneDrive**: [Clique aqui para acessar](https://fatecspgov-my.sharepoint.com/:u:/g/personal/evellyn_silva3_fatec_sp_gov_br/EdDYwQ6MzZtIh-NAOiO7VVgBcG80ZK1UZgEGSaA_qcoGCA?e=eoofRf)
+
+## **Tarefa 1 - PowerBI (12/10)** 
+![Captura de tela 2024-10-24 215836](https://github.com/user-attachments/assets/8f633e77-9ed0-4d0d-a67a-ff646641df2f)
+
+
