@@ -31,11 +31,9 @@ Nesta atividade, fizemos uma análise de dados utilizando planilhas. O arquivo a
 
 ---
 
-## **TAREFA 2 - Filtragem de dados PowerBI**
-![imagem](https://github.com/user-attachments/assets/72685fc8-f470-4af7-bbac-68d51a8a076e)
-
-
 ## 📈 **Anexar Dados Filtrados ao Power BI (11/10)**
+
+![imagem](https://github.com/user-attachments/assets/72685fc8-f470-4af7-bbac-68d51a8a076e)
 
 Trabalhamos com dados livres e visualizações no Power BI. Acesse o material através do link abaixo:
 
