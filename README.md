@@ -23,7 +23,7 @@ Bem-vindo(a) ao repositório de **Informática Aplicada à Logística**! Aqui vo
 
 ---
 
-## 📊 **TAREFA 1 - Entrega do Trabalho de Análise de Dados (19/09)**
+## 📊 **Entrega do Trabalho de Análise de Dados (19/09)**
 
 Nesta atividade, fizemos uma análise de dados utilizando planilhas. O arquivo abaixo contém os resultados da análise.
 
@@ -31,7 +31,7 @@ Nesta atividade, fizemos uma análise de dados utilizando planilhas. O arquivo a
 
 ---
 
-## 📈 **Anexar Dados Filtrados ao Power BI (11/10)**
+## 📈 **Dados Filtrados ao Power BI (11/10)**
 
 ![imagem](https://github.com/user-attachments/assets/72685fc8-f470-4af7-bbac-68d51a8a076e)
 
@@ -39,7 +39,7 @@ Trabalhamos com dados livres e visualizações no Power BI. Acesse o material at
 
 **Link da atividade no OneDrive**: [Clique aqui para acessar](https://fatecspgov-my.sharepoint.com/:u:/g/personal/evellyn_silva3_fatec_sp_gov_br/EdDYwQ6MzZtIh-NAOiO7VVgBcG80ZK1UZgEGSaA_qcoGCA?e=eoofRf)
 
-## **PowerBI (12/10)** 
+## **PowerBI Bandeiras** 
 ![Captura de tela 2024-10-24 215836](https://github.com/user-attachments/assets/8f633e77-9ed0-4d0d-a67a-ff646641df2f)
 
 **Link da atividade no OneDrive**: [Mapa e Bandeiras](https://github.com/BadanBADAN/PROJETOS/blob/main/BANDEIRASeMAPA%20(1).pbix)
