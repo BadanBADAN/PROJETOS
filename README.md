@@ -44,4 +44,11 @@ Trabalhamos com dados livres e visualizações no Power BI. Acesse o material at
 
 **Link da atividade no OneDrive**: [Mapa e Bandeiras](https://github.com/BadanBADAN/PROJETOS/blob/main/BANDEIRASeMAPA%20(1).pbix)
 
+## **PowerBI DAX e KPI**
+![Captura de tela 2024-10-24 215836](https://github.com/user-attachments/assets/e8c3a959-3b08-4fb9-b336-4efe75eeb342)
+
+
+
+
+
 
