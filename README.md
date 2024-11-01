@@ -47,7 +47,7 @@ Trabalhamos com dados livres e visualizações no Power BI. Acesse o material at
 ## **PowerBI DAX e KPI**
 ![Captura de tela 2024-10-24 215836](https://github.com/user-attachments/assets/e8c3a959-3b08-4fb9-b336-4efe75eeb342)
 
-**Link da atividade no OneDrive**: [Mapa e Bandeiras]()
+**Link da atividade no OneDrive**: [dashboard](https://github.com/BadanBADAN/PROJETOS/blob/main/filiaisDAX%201.pbix)
 
 
 
