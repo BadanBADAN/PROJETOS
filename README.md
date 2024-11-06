@@ -49,6 +49,12 @@ Trabalhamos com dados livres e visualizações no Power BI. Acesse o material at
 
 **Link da atividade no OneDrive**: [dashboard](https://github.com/BadanBADAN/PROJETOS/blob/main/filiaisDAX%201.pbix)
 
+## **PowerBI - atividade KPI(metas)**
+![Captura de tela 2024-11-05 211624](https://github.com/user-attachments/assets/e81beb8e-f662-473d-b86c-d500eb111c25)
+
+**Link da atividade no OneDrive**:
+
+
 
 
 
