@@ -52,7 +52,7 @@ Trabalhamos com dados livres e visualizações no Power BI. Acesse o material at
 ## **PowerBI - atividade KPI(metas)**
 ![Captura de tela 2024-11-05 211624](https://github.com/user-attachments/assets/e81beb8e-f662-473d-b86c-d500eb111c25)
 
-**Link da atividade no OneDrive**:
+**Link da atividade no OneDrive**: [metas de 1,01%](https://github.com/BadanBADAN/PROJETOS/blob/main/atividade%20de%20meta.pbix)
 
 
 
