@@ -39,17 +39,17 @@ Trabalhamos com dados livres e visualizações no Power BI. Acesse o material at
 
 **Link da atividade no OneDrive**: [Clique aqui para acessar](https://fatecspgov-my.sharepoint.com/:u:/g/personal/evellyn_silva3_fatec_sp_gov_br/EdDYwQ6MzZtIh-NAOiO7VVgBcG80ZK1UZgEGSaA_qcoGCA?e=eoofRf)
 
-## **PowerBI Bandeiras** 
+## 🗺️ **PowerBI Bandeiras** 
 ![Captura de tela 2024-10-24 215836](https://github.com/user-attachments/assets/8f633e77-9ed0-4d0d-a67a-ff646641df2f)
 
 **Link da atividade no OneDrive**: [Mapa e Bandeiras](https://github.com/BadanBADAN/PROJETOS/blob/main/BANDEIRASeMAPA%20(1).pbix)
 
-## **PowerBI DAX e KPI**
+## 🎯 **PowerBI DAX e KPI**
 ![Captura de tela 2024-10-24 215836](https://github.com/user-attachments/assets/e8c3a959-3b08-4fb9-b336-4efe75eeb342)
 
 **Link da atividade no OneDrive**: [dashboard](https://github.com/BadanBADAN/PROJETOS/blob/main/filiaisDAX%201.pbix)
 
-## **PowerBI - atividade KPI(metas)**
+## 💻 **PowerBI - atividade KPI(metas)**
 ![Captura de tela 2024-11-05 211624](https://github.com/user-attachments/assets/e81beb8e-f662-473d-b86c-d500eb111c25)
 
 **Link da atividade no OneDrive**: [metas de 1,01%](https://github.com/BadanBADAN/PROJETOS/blob/main/atividade%20de%20meta.pbix)
