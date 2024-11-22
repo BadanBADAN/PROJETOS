@@ -55,6 +55,11 @@ https://app.powerbi.com/links/mB_NfUNJTU?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 **Link da atividade no OneDrive**: [metas de 1,01%](https://github.com/BadanBADAN/PROJETOS/blob/main/atividade%20de%20meta.pbix)
 
+## **Criação de aplicativo no Power Apps**
+![image](https://github.com/user-attachments/assets/a43c27ae-fc0b-4185-9b1f-2be670803648)
+
+**Link da atividade no OneDrive**: [Aplicativo para venda de alimentos](
+
 
 
 
