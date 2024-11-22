@@ -58,7 +58,7 @@ https://app.powerbi.com/links/mB_NfUNJTU?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ## **Criação de aplicativo no Power Apps**
 ![image](https://github.com/user-attachments/assets/a43c27ae-fc0b-4185-9b1f-2be670803648)
 
-**Link da atividade no OneDrive**: [Aplicativo para venda de alimentos](https://github.com/BadanBADAN/PROJETOS/blob/main/(46)%20WhatsApp.html)
+**Link da atividade no OneDrive**: (https://github.com/BadanBADAN/PROJETOS/blob/main/(46)%20WhatsApp.html)
 
 
 
