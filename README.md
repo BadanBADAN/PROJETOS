@@ -60,8 +60,6 @@ https://app.powerbi.com/links/mB_NfUNJTU?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 **Link para assistir um vídeo**: [(https://github.com/BadanBADAN/PROJETOS/blob/main/(46)%20WhatsApp.html)](https://github.com/BadanBADAN/PROJETOS/blob/main/WhatsApp%20Video%202024-11-22%20at%2020.56.49.mp4)
 
-## POWER BI - simples
-![image](https://github.com/user-attachments/assets/cb610bbb-de2c-4764-8252-7cfdbf78b384)
 
 **Link para assistir um vídeo**: https://github.com/BadanBADAN/PROJETOS/blob/main/provaPB.pbix
 
